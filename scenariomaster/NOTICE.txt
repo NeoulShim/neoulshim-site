@@ -1,0 +1,8 @@
+시나리오의 거장 (ScenarioMaster)
+Copyright (c) 2026 심너울 (NeoulShim)
+Original author / 원저작자: 심너울 (NeoulShim)
+
+Application code: Apache License 2.0 (LICENSE).
+Original example manuscripts: MIT (EXAMPLE_LICENSE.txt).
+Third-party components retain their own licenses; see THIRD_PARTY_NOTICES.md.
+No font files or Hancom software are redistributed.
