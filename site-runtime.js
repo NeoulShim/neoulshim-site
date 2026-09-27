@@ -12,7 +12,6 @@
         const parts = url.pathname.split('/');
         if (paths[parts[1]]) { parts[1] = paths[parts[1]]; a.href = parts.join('/') + url.search + url.hash; }
       }
-      if (!location.pathname.startsWith('/portfolio') && url.hostname === 'thundering-pedestrian-751.notion.site') a.href = '/portfolio/';
     }
   }
   if (!custom && !github) return;
